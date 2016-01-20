@@ -3,6 +3,15 @@
   background-color: darkcyan;
 }
 
+.topcontainer #image{
+  margin: 1% 0%;
+}
+
+.topcontainer #name{
+  margin: 1% 0% 2% 0%;
+}
+
+
 .middle{
   background-color: lightgray;
 }

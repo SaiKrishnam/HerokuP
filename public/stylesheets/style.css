@@ -1,4 +1,13 @@
 
+body{
+  font-size: 100%;
+  /*14px*/
+}
+
+.topcontainer #name{
+  font-size:3em;
+}
+
 .topcontainer{
   background-color: darkcyan;
 }
@@ -12,13 +21,22 @@
 }
 
 
+
 .middle{
   background-color: lightgray;
 }
 
-#name {
-  color: #000000;
+.middle h1{
+  font-size: 3em;
 }
+
+.middle p{
+  font-size: 2em;
+}
+
+/*#name {*/
+  /*color: #000000;*/
+/*}*/
 
 .bottom{
   background-color:black ;

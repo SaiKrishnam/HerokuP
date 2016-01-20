@@ -26,18 +26,35 @@ body{
   background-color: lightgray;
 }
 
-.middle h1{
-  font-size: 1.5em;
-}
-
 .middle p{
   font-size: 1.15em;
 }
 
+.middle #heading{
+  margin-top:1em;
+  font-size: 1.5em;
+}
+
+.middle #description{
+  margin-bottom:1.5em;
+}
 /*#name {*/
   /*color: #000000;*/
 /*}*/
 
+.projects #projectsHeading{
+  margin-top:1em;
+  font-size: 1.5em;
+  margin-bottom:1em;
+}
+
+.projects .col-md-4{
+ margin-bottom:1.5em;
+ }
+
+.projects img{
+  width:100%;
+}
 .bottom{
   background-color:black ;
 }

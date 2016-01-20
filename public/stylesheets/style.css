@@ -41,6 +41,9 @@ body{
 /*#name {*/
   /*color: #000000;*/
 /*}*/
+.projects{
+  background-color: lightgray;
+ }
 
 .projects #projectsHeading{
   margin-top:1em;

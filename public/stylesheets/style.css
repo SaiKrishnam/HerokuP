@@ -5,7 +5,7 @@ body{
 }
 
 .topcontainer #name{
-  font-size:3em;
+  font-size:2em;
 }
 
 .topcontainer{
@@ -27,11 +27,11 @@ body{
 }
 
 .middle h1{
-  font-size: 3em;
+  font-size: 1.5em;
 }
 
 .middle p{
-  font-size: 2em;
+  font-size: 1.15em;
 }
 
 /*#name {*/
